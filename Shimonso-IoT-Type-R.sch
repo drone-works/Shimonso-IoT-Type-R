@@ -3009,6 +3009,6 @@ Wire Wire Line
 	8450 6900 8550 6900
 NoConn ~ 16400 9250
 NoConn ~ 4400 4350
-Text Notes 15550 14300 0    60   ~ 0
+Text Notes 12300 15100 0    87   ~ 0
 \n96Boards\nhttp://www.96boards.org/products/\n\nROHM_Sensor_Kit\nhttp://www.rohm.co.jp/web/japan/sensor-shield-support\n\nROHM_Tri-axis_Digital_Accelerometer\nKX022-1020\nhttp://kionixfs.kionix.com/en/datasheet/KX022-1020%20Specifications%20Rev%2012.0.pdf\n\nROHM_PressureSensor\nBM1383GLV\nhttp://rohmfs.rohm.com/jp/products/databook/datasheet/ic/sensor/pressure/bm1383glv-j.pdf\n\nROHM_Magnetometer\nBM1422GMV\n\nROHM_3in1_ProximitySensor,_ALS_and_IrLED\nRPR-0521RS\nhttp://rohmfs.rohm.com/jp/products/databook/datasheet/opto/optical_sensor/opto_module/rpr-0521rs-j.pdf\n\nROHM_ColorSensor\nBH1745NUC\nhttp://rohmfs.rohm.com/jp/products/databook/datasheet/ic/sensor/light/bh1745nuc-j.pdf\n\nROHM_Omnipolar_Detection_Hall_Sensor\nBD7411G\nhttp://rohmfs.rohm.com/jp/products/databook/datasheet/ic/sensor/hall/bu52001gul-j.pdf\n\nROHM_Analog_Temperature_Sensor\nBD1020HFV\nhttp://rohmfs.rohm.com/jp/products/databook/datasheet/ic/sensor/temperature/bd1020hfv-j.pdf\n\nROHM_UV_Sensor\nML8511A\nhttp://www.rohm.co.jp/documents/11546/a4f134b1-8cc2-49d1-bc30-7ad8101f102c
 $EndSCHEMATC
