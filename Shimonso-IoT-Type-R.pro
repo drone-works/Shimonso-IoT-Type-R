@@ -1,10 +1,6 @@
-update=2016年05月22日日曜日 09:26:07
+update=2016年05月22日日曜日 12:33:22
 version=1
-last_client=eeschema
-[general]
-version=1
-RootSch=
-BoardNm=
+last_client=kicad
 [pcbnew]
 version=1
 LastNetListRead=
@@ -72,3 +68,5 @@ LibName28=contrib
 LibName29=valves
 LibName30=droneworks
 LibName31=rohm
+[general]
+version=1
