@@ -37,8 +37,8 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "Shimonso IoT Type-R"
-Date "2016-05-24"
-Rev "0.07"
+Date "2016-05-26"
+Rev "0.08"
 Comp "DroneWorks Inc."
 Comment1 "Copyright (c) 2016 DroneWorks Inc."
 Comment2 "All rights reserved."
@@ -2483,8 +2483,8 @@ Wire Wire Line
 	8600 6900 8700 6900
 NoConn ~ 16400 9250
 NoConn ~ 4400 4350
-Text Notes 13050 15300 0    87   ~ 0
-ROHM_Sensor_Kit\nhttp://www.rohm.co.jp/web/japan/sensor-shield-support\n\nROHM_Tri-axis_Digital_Accelerometer\nKX022-1020\nhttp://kionixfs.kionix.com/en/datasheet/KX022-1020%20Specifications%20Rev%2012.0.pdf\n\nROHM_PressureSensor\nBM1383GLV\nhttp://rohmfs.rohm.com/jp/products/databook/datasheet/ic/sensor/pressure/bm1383glv-j.pdf\n\nROHM_Magnetometer\nBM1422GMV\nhttp://www.rohm.co.jp/documents/11546/22bbf227-2e2a-41ef-8114-e2eea3262e09\n\nROHM_3in1_ProximitySensor,_ALS_and_IrLED\nRPR-0521RS\nhttp://rohmfs.rohm.com/jp/products/databook/datasheet/opto/optical_sensor/opto_module/rpr-0521rs-j.pdf\n\nROHM_ColorSensor\nBH1745NUC\nhttp://rohmfs.rohm.com/jp/products/databook/datasheet/ic/sensor/light/bh1745nuc-j.pdf\n\nROHM_Omnipolar_Detection_Hall_Sensor\nBD7411G\nhttp://rohmfs.rohm.com/jp/products/databook/datasheet/ic/sensor/hall/bu52001gul-j.pdf\n\nROHM_Analog_Temperature_Sensor\nBD1020HFV\nhttp://rohmfs.rohm.com/jp/products/databook/datasheet/ic/sensor/temperature/bd1020hfv-j.pdf\n\nROHM_UV_Sensor\nML8511A\nhttp://www.rohm.co.jp/documents/11546/a4f134b1-8cc2-49d1-bc30-7ad8101f102c\n\nROHM_I2C_bus_serial_interface_RTC\nBU9873\nhttp://rohmfs.rohm.com/jp/products/databook/datasheet/ic/clock/real_time_clock/bu9873xxx-j.pdf\n\n96Boards\nhttp://www.96boards.org/products/
+Text Notes 13450 15250 0    79   ~ 0
+ROHM_Tri-axis_Digital_Accelerometer\nKX022-1020\nhttp://kionixfs.kionix.com/en/datasheet/KX022-1020%20Specifications%20Rev%2012.0.pdf\n\nROHM_PressureSensor\nBM1383GLV\nhttp://rohmfs.rohm.com/jp/products/databook/datasheet/ic/sensor/pressure/bm1383glv-j.pdf\n\nROHM_Magnetometer\nBM1422GMV\nhttp://www.rohm.co.jp/documents/11546/22bbf227-2e2a-41ef-8114-e2eea3262e09\n\nROHM_3in1_ProximitySensor,_ALS_and_IrLED\nRPR-0521RS\nhttp://rohmfs.rohm.com/jp/products/databook/datasheet/opto/optical_sensor/opto_module/rpr-0521rs-j.pdf\n\nROHM_ColorSensor\nBH1745NUC\nhttp://rohmfs.rohm.com/jp/products/databook/datasheet/ic/sensor/light/bh1745nuc-j.pdf\n\nROHM_Omnipolar_Detection_Hall_Sensor\nBD7411G\nhttp://rohmfs.rohm.com/jp/products/databook/datasheet/ic/sensor/hall/bu52001gul-j.pdf\n\nROHM_Analog_Temperature_Sensor\nBD1020HFV\nhttp://rohmfs.rohm.com/jp/products/databook/datasheet/ic/sensor/temperature/bd1020hfv-j.pdf\n\nROHM_UV_Sensor\nML8511A\nhttp://www.rohm.co.jp/documents/11546/a4f134b1-8cc2-49d1-bc30-7ad8101f102c\n\nROHM_I2C_bus_serial_interface_RTC\nBU9873\nhttp://rohmfs.rohm.com/jp/products/databook/datasheet/ic/clock/real_time_clock/bu9873xxx-j.pdf\n\nROHM_1A_Variable/Fixed_Output_LDO_Regulator\nBDxxGC0WEFJ \nhttp://rohmfs.rohm.com/jp/products/databook/datasheet/ic/power/linear_regulator/bdxxgc0wefj-j.pdf\n\nDual bidirectional I2C-bus and SMBus voltage-level translator\nPCA9306\nhttp://www.nxp.com/documents/data_sheet/PCA9306.pdf
 Text Notes 11800 13600 0    60   ~ 0
 1-84952-5
 Text Notes 10950 15300 0    60   ~ 0
@@ -2864,4 +2864,6 @@ Text Label 10100 15000 0    60   ~ 0
 ISP1_SDA_3V3
 Text Notes 6150 3800 0    60   ~ 0
 GND
+Text Notes 13450 15950 0    79   ~ 0
+\nROHM_Sensor_Kit\nhttp://www.rohm.co.jp/web/japan/sensor-shield-support\n\n96Boards\nhttp://www.96boards.org/products/\n
 $EndSCHEMATC
