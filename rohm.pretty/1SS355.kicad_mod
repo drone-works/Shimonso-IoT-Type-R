@@ -1,8 +1,8 @@
-(module 1SS355 (layer F.Cu) (tedit 57678B12)
-  (fp_text reference D? (at 3.81 2.3288) (layer F.SilkS)
-    (effects (font (size 1.5 1.5) (thickness 0.3)))
+(module 1SS355 (layer F.Cu) (tedit 576A771B)
+  (fp_text reference D? (at 0.05 -1.9) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.25)))
   )
-  (fp_text value 1SS355 (at 0 -2.1764) (layer F.SilkS)
+  (fp_text value 1SS355 (at 0 -2.1764) (layer F.SilkS) hide
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (fp_line (start -1.4196 2.286) (end -0.4196 2.286) (layer F.SilkS) (width 0.3))

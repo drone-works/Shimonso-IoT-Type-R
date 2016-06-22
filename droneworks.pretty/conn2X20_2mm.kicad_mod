@@ -1,8 +1,8 @@
-(module conn2X20_2mm (layer F.Cu) (tedit 5768F6BC)
-  (fp_text reference CON2 (at 16.7894 4.0974 180) (layer F.SilkS)
-    (effects (font (size 1.5 1.5) (thickness 0.3)))
+(module conn2X20_2mm (layer F.Cu) (tedit 576A7582)
+  (fp_text reference CON2 (at -1.8 0.1 90) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.25)))
   )
-  (fp_text value 96Boards_LS_connector (at 17.145 -3.1322 180) (layer F.SilkS)
+  (fp_text value 96Boards_LS_connector (at 17.145 -3.1322) (layer F.SilkS) hide
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (pad 1 thru_hole circle (at 0 1) (size 1.6 1.6) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
