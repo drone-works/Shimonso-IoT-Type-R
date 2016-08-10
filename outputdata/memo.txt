@@ -1,0 +1,13 @@
+Shimonso-IoT-Type-R-B.Cu.gbl			(背面パターン)
+Shimonso-IoT-Type-R-B_Mask.gbs		(背面レジスト)
+Shimonso-IoT-Type-R-B_SilkS.gbo		(背面シルク)
+Shimonso-IoT-Type-R-Edge.Cuts.gml	(基板外形)
+Shimonso-IoT-Type-R-F-Cu.gtl			(前面パターン)
+Shimonso-IoT-Type-R-F_Mask.gts		(前面マスク)
+Shimonso-IoT-Type-R-F_SilkS.gto		(前面シルク)
+Shimonso-IoT-Type-R-drl.rpt				(ドリルリスト)
+Shimonso-IoT-Type-R-In1.Cu.g2			(2層目パターン)
+Shimonso-IoT-Type-R-In2.Cu.g3			(3層目パターン)
+Shimonso-IoT-Type-R-drl_map.gbr		(ドリルマップ)
+Shimonso-IoT-Type-R.drl						(ドリルデータ)
+
