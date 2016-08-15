@@ -1,5 +1,5 @@
-Drill report for /Users/yujimac/ownCloud/KiCad/Shimonso-IoT-Type-R/Shimonso-IoT-Type-R.kicad_pcb
-Created on 2016年08月10日水曜日 14:50:14
+Drill report for C:\Users\Yuji\ownCloud\KiCad\Shimonso-IoT-Type-R\Shimonso-IoT-Type-R.kicad_pcb
+Created on 2016/08/15 16:12:26
 
 Copper Layer Stackup:
     =============================================================
@@ -9,19 +9,19 @@ Copper Layer Stackup:
     L4 :  B.Cu                      back
 
 
-Drill file 'Shimonso-IoT-Type-R.drl' contains
+Drill file 'C:Shimonso-IoT-Type-R.drl' contains
     plated through holes:
     =============================================================
-    T1  0.40mm  0.016"  (210 holes)
+    T1  0.40mm  0.016"  (240 holes)
     T2  0.50mm  0.020"  (2 holes)  (with 2 slots)
     T3  0.55mm  0.022"  (2 holes)  (with 2 slots)
     T4  0.76mm  0.030"  (40 holes)
     T5  1.02mm  0.040"  (6 holes)
 
-    Total plated holes count 260
+    Total plated holes count 290
 
 
-Drill file 'Shimonso-IoT-Type-R-NPTH.drl' contains
+Drill file 'C:Shimonso-IoT-Type-R-NPTH.drl' contains
     unplated through holes:
     =============================================================
 
